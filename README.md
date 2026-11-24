@@ -1,5 +1,5 @@
 # AH_BOTH-ai-assistant-demo-version-
-this is an official AH_BOTH ai assistant mad by me.
+this is an official AH_BOTH ai assistant made by me.
 
 Hey! nice to see you on this page
 i'm the owner of this ai assistant
